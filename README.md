@@ -66,4 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# react-fcc_lecture
+
+# ReactJS Lecture with Bob Ziroll
+
+## Introduction
+
+To learn and better understand ReactJS, I have created a git to follow along with Bob Ziroll's lecture and challenges - [Learn React.js - Full Course for Beginners](https://www.youtube.com/watch?v=DLX62G4lc44).
