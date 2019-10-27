@@ -4,7 +4,7 @@ function Product(props) {
   return (
     <div>
       <h3>Product: {props.name} </h3>
-      <p>Price: {props.price} </p>
+      <p>Price: $ {props.price} </p>
       <p>Description: {props.description} </p>
       <hr />
     </div>
